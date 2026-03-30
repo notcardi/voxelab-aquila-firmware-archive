@@ -1,0 +1,3 @@
+Update Content:
+1. Fix the problem of UI symbol in Chinese language system 
+2. Optimize the printing effect in Octoprint 
